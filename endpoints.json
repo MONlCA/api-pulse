@@ -1,0 +1,16 @@
+{
+  "endpoints": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com"
+    },
+    {
+      "name": "Python",
+      "url": "https://www.python.org"
+    },
+    {
+      "name": "Example",
+      "url": "https://example.com"
+    }
+  ]
+}
